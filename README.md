@@ -11,8 +11,9 @@
 
 As of 2022, Petlove is the biggest online petshop in Brazil. This project is based on the Technical Challenge Case from their Intelligence sector. Despite their astounding success on the market for the previous couple of decades, 
 Petlove's marketing department took a risky choice when it decided to cast Priscila, the main character from Brazilian children's television series TV Colosso (also known abroad as *The Hot Dog Channel*), as their company mascot.
+</br>
 
-<img src="images/jesuschrist.jpg" align="left" width="25%"/>
+<img src="images/jesuschrist.jpg" align="left" width="35%"/>
 
 
 The American novelist Nathaniel Hawthorne once presciently declared that "There are many things in this world that a child must not ask about", but little did he know the scarring that Priscila would inflict in the yet fragile
@@ -23,7 +24,7 @@ psyches of unsuspecting brazilian children of the 90s. Despite the desperate att
 Described by their stygian makers as "a charming female sheepdog, main and only producer of the Hot God Channel", Priscila is actually a fiendish hellhound summoned from the the Third Ring of the Seventh Circle of hell, *allegedly*
 reserved for those who commit violence against God, Art and Nature. She is depicted in Gustave Doré's engraving "Canto XV", torturing the damned while Dante and Virgil continue their journey on the foreground. 
 
-<p align="center"><img src="images/hellhound.jpg"width="100%"/></p>
+<p align="center"><img src="images/hellhound.jpg"width="80%"/></p>
 
 Despite the caustic poison that seeps into our very souls by simply reading her name, I have decided to try my hand at solving the enigmas hidden deep in this so-called "Case".
 If you _must_ know the results from my search, carry on: steel your mind, but remember that overconfidence is a slow </br> and insidious </br> killer.
