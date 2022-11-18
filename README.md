@@ -17,14 +17,18 @@ Petlove's marketing department took a risky choice when it decided to cast Prisc
 
 The American novelist Nathaniel Hawthorne once presciently declared that "There are many things in this world that a child must not ask about", but little did he know the scarring that Priscila would inflict in the yet fragile
 psyches of unsuspecting brazilian children of the 90s. Despite the desperate attempts from the makeup team, the truth is hidden beneath the black veneer of Priscila's souless eyes, as seen here on her/it original appearance.
+
 </br>
+
 Described by their stygian makers as "a charming female sheepdog, main and only producer of the Hot God Channel", Priscila is actually a fiendish hellhound summoned from the the Third Ring of the Seventh Circle of hell, *allegedly*
 reserved for those who commit violence against God, Art and Nature. She is depicted in Gustave Doré's engraving "Canto XV", torturing the damned while Dante and Virgil continue their journey on the foreground. 
 
-<img src="images/hellhound.jpg" align="centre" width="75%"/>
+<img src="images/hellhound.jpg" width="75%"/>
 
 Despite the caustic poison that seeps into our very souls by simply reading her name, I have decided to try my hand at solving the enigmas hidden deep in this so-called "Case".
 If you _must_ know the results from my search, carry on: steel your mind, but remember that overconfidence is a slow </br> and insidious </br> killer.
+
+---
 
 ## Project objective
 
