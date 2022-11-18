@@ -32,6 +32,7 @@ If you _must_ know the results from my search, carry on: steel your mind, but re
 
 ## Project objective
 
+IN PROGRESS. (run while you can)
 
 ## Technologies
 
