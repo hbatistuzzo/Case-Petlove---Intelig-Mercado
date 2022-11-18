@@ -17,7 +17,7 @@ Petlove's marketing department took a risky choice when it decided to cast Prisc
 
 
 The American novelist Nathaniel Hawthorne once presciently declared that "There are many things in this world that a child must not ask about", but little did he know the scarring that Priscila would inflict in the yet fragile
-psyches of unsuspecting brazilian children of the 90s. Despite the desperate attempts from the makeup team, the truth is hidden beneath the black veneer of Priscila's souless eyes, as seen here on her/it original appearance.
+psyche of unsuspecting brazilian children of the 90s. Despite the desperate attempts from the makeup team, the truth still creeps out every so often, locked beneath the black veneer of Priscila's souless eyes, as seen here on her/it original appearance.
 
 </br>
 
