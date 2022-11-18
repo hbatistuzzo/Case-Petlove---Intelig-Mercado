@@ -20,7 +20,7 @@ psyches of unsuspecting brazilian children of the 90s. Despite the desperate att
 Described by their stygian makers as "a charming female sheepdog, main and only producer of the Hot God Channel", Priscila is actually a fiendish hellhound summoned from the the Third Ring of the Seventh Circle of hell, *allegedly*
 reserved for those who commit violence against God, Art and Nature. She is depicted in Gustave Doré's engraving "Canto XV", torturing the damned while Dante and Virgil continue their journey on the foreground.
 
-<img src="images/ohno.jpg" align="center" width="25%"/>
+<img src="images/hellhound.jpg" align="center" width="50%"/>
 
 Despite the caustic poison that seeps into our very souls by simply reading her name, I have decided to try my hand at solving the enigmas hidden deep in this so-called "Case".
 If you _must_ know the results from my search, carry on: steel your mind, but remember that overconfidence is a slow </br> and insidious </br> killer.
