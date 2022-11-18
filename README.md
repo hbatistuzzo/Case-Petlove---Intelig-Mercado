@@ -13,7 +13,7 @@ As of 2022, Petlove is the biggest online petshop in Brazil. This project is bas
 Petlove's marketing department took a risky choice when it decided to cast Priscila, the main character from Brazilian children's television series TV Colosso (also known abroad as *The Hot Dog Channel*), as their company mascot.
 </br>
 
-<img src="images/jesuschrist.jpg" align="left" width="35%"/>
+<img src="images/jesuschrist.jpg" align="left" width="20%"/>
 
 
 The American novelist Nathaniel Hawthorne once presciently declared that "There are many things in this world that a child must not ask about", but little did he know the scarring that Priscila would inflict in the yet fragile
